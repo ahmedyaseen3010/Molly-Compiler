@@ -26,4 +26,4 @@
 </li>
   </ul>
 </p>
-![image](https://github.com/ahmedyaseen3010/Molly-Compiler/assets/87431777/5ae02a7c-374b-4877-87c7-c67e2f9c844c)
+<img src="https://github.com/ahmedyaseen3010/Molly-Compiler/assets/87431777/5ae02a7c-374b-4877-87c7-c67e2f9c844c">
